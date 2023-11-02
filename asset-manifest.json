@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shiv-Rawat/Quicksell-Assessment/static/css/main.30d047c2.css",
+    "main.js": "/shiv-Rawat/Quicksell-Assessment/static/js/main.89916aa3.js",
+    "index.html": "/shiv-Rawat/Quicksell-Assessment/index.html",
+    "main.30d047c2.css.map": "/shiv-Rawat/Quicksell-Assessment/static/css/main.30d047c2.css.map",
+    "main.89916aa3.js.map": "/shiv-Rawat/Quicksell-Assessment/static/js/main.89916aa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30d047c2.css",
+    "static/js/main.89916aa3.js"
+  ]
+}
