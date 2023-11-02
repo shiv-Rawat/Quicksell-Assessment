@@ -5,3 +5,5 @@
 # Description 
 
 Kanban board is a pure ReactJS based Application, connecting to an external API for ticket data. This interactive board allows users to dynamically group tickets by status, user, or priority, and offers sorting options by priority and title. User settings are preserved for a seamless experience, and the visually appealing design matches the provided screenshot.
+
+Enjoy using the applicaiton in [https://quicksell-assessment.netlify.app/]
